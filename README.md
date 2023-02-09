@@ -1,4 +1,4 @@
-# Output
+# How the App Looks Like
 
 https://user-images.githubusercontent.com/44043110/217754557-72f08365-c83c-41af-aa78-0738d0f61673.mp4
 
